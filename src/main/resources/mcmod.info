@@ -1,0 +1,11 @@
+[{
+  "modid": "buddybuilder",
+  "name": "Buddy Builder",
+  "description": "Type an order, a small local AI plans it and Buddy builds it: roads, buildings, whole cities, with any modded block.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["DogPound"],
+  "requiredMods": [],
+  "dependencies": [],
+  "useDependencyInformation": false
+}]
